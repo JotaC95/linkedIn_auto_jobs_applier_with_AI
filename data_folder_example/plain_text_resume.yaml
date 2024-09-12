@@ -98,7 +98,7 @@ languages:
   - language: "Italian"
     proficiency: "Native"
   - language: "English"
-    proficiency: "Fluent"
+    proficiency: "intermediate"
 
 interests:
   - "Cloud Computing"

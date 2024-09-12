@@ -1,30 +1,29 @@
 personal_information:
-  name: "[Jaime Jose ]"
-  surname: "[Crow Larrea]"
-  date_of_birth: "[Your Date of Birth]"
-  country: "[Ecuador]"
-  city: "[Quito]"
-  address: "[Alemania N30-92 y Eloy Alfaro]"
-  phone_prefix: "[593]"
-  phone: "[0939933960]"
-  email: "[jota.crow@gmail.com]"
-  github: "[https://github.com/JotaC95]"
-  linkedin: "[https://www.linkedin.com/in/jaimejosecrow]"
+  name: "Jaime Jose"
+  surname: "Crow Larrea"
+  date_of_birth: "Your Date of Birth"
+  country: "Ecuador"
+  city: "Quito"
+  address: "Alemania N30-92 y Eloy Alfaro"
+  phone_prefix: "593"
+  phone: "0939933960"
+  email: "jota.crow@gmail.com"
+  github: "https://github.com/JotaC95"
+  linkedin: "https://www.linkedin.com/in/jaimejosecrow"
 
 education_details:
-  - education_level: "[Your Education Level]"
-    institution: "[Your Institution]"
-    field_of_study: "[Your Field of Study]"
-    final_evaluation_grade: "[Your Final Evaluation Grade]"
-    start_date: "[Start Date]"
-    year_of_completion: "[Year of Completion]"
-    exam:
-      exam_name_1: "[Grade]"
-      exam_name_2: "[Grade]"
-      exam_name_3: "[Grade]"
-      exam_name_4: "[Grade]"
-      exam_name_5: "[Grade]"
-      exam_name_6: "[Grade]"
+  - education_level: "bachelor"
+    institution: "UTE university"
+    field_of_study: "Mechatronic Engineering"
+    start_date: "2016"
+    year_of_completion: "2022"
+    # exam:
+    #   exam_name_1: "[Grade]"
+    #   exam_name_2: "[Grade]"
+    #   exam_name_3: "[Grade]"
+    #   exam_name_4: "[Grade]"
+    #   exam_name_5: "[Grade]"
+    #   exam_name_6: "[Grade]"
 
 experience_details:
   - position: "[Your Position]"
@@ -41,19 +40,19 @@ experience_details:
       - "[Skill]"
       - "[Skill]"
 
-  - position: "[Your Position]"
-    company: "[Company Name]"
-    employment_period: "[Employment Period]"
-    location: "[Location]"
-    industry: "[Industry]"
-    key_responsibilities:
-      - responsibility_1: "[Responsibility Description]"
-      - responsibility_2: "[Responsibility Description]"
-      - responsibility_3: "[Responsibility Description]"
-    skills_acquired:
-      - "[Skill]"
-      - "[Skill]"
-      - "[Skill]"
+  # - position: "[Your Position]"
+  #   company: "[Company Name]"
+  #   employment_period: "[Employment Period]"
+  #   location: "[Location]"
+  #   industry: "[Industry]"
+  #   key_responsibilities:
+  #     - responsibility_1: "[Responsibility Description]"
+  #     - responsibility_2: "[Responsibility Description]"
+  #     - responsibility_3: "[Responsibility Description]"
+  #   skills_acquired:
+  #     - "[Skill]"
+  #     - "[Skill]"
+  #     - "[Skill]"
 
 projects:
   - name: "[Project Name]"
@@ -77,43 +76,44 @@ certifications:
     description: "[Certification Description]"
 
 languages:
-  - language: "[Language]"
-    proficiency: "[Proficiency Level]"
-  - language: "[Language]"
+  - language: "Spanich"
+    proficiency: "Native"
+  - language: "English"
     proficiency: "[Proficiency Level]"
 
 interests:
-  - "[Interest]"
-  - "[Interest]"
-  - "[Interest]"
+  - "Web designer"
+  - "Cybersecurity"
+  - "IoT Development"
+  - "Artificial Intelligence"
+  - "Process automation"
 
 availability:
-  notice_period: "[Notice Period]"
+  notice_period: "1 week"
 
 salary_expectations:
-  salary_range_usd: "[Salary Range]"
+  salary_range_usd: "11000-18000"
 
 self_identification:
-  gender: "[Gender]"
-  pronouns: "[Pronouns]"
-  veteran: "[Yes/No]"
-  disability: "[Yes/No]"
-  ethnicity: "[Ethnicity]"
+  gender: "Male"
+  pronouns: "He/Him"
+  veteran: "No"
+  disability: "No"
 
 legal_authorization:
-  eu_work_authorization: "[Yes/No]"
-  us_work_authorization: "[Yes/No]"
-  requires_us_visa: "[Yes/No]"
-  requires_us_sponsorship: "[Yes/No]"
-  requires_eu_visa: "[Yes/No]"
-  legally_allowed_to_work_in_eu: "[Yes/No]"
-  legally_allowed_to_work_in_us: "[Yes/No]"
-  requires_eu_sponsorship: "[Yes/No]"
+  eu_work_authorization: "No"
+  us_work_authorization: "No"
+  requires_us_visa: "Yes"
+  requires_us_sponsorship: "Yes"
+  requires_eu_visa: "Yes"
+  legally_allowed_to_work_in_eu: "No"
+  legally_allowed_to_work_in_us: "No"
+  requires_eu_sponsorship: "Yes"
 
 work_preferences:
-  remote_work: "[Yes/No]"
-  in_person_work: "[Yes/No]"
-  open_to_relocation: "[Yes/No]"
-  willing_to_complete_assessments: "[Yes/No]"
-  willing_to_undergo_drug_tests: "[Yes/No]"
-  willing_to_undergo_background_checks: "[Yes/No]"
+  remote_work: "Yes"
+  in_person_work: "Yes"
+  open_to_relocation: "Yes"
+  willing_to_complete_assessments: "Yes"
+  willing_to_undergo_drug_tests: "Yes"
+  willing_to_undergo_background_checks: "Yes"
